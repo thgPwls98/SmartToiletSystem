@@ -19,7 +19,12 @@ namespace Smart_Toilet_System
 
         private void btnLogin_Click(object sender, EventArgs e)
         {
+            //로그인
+        }
 
+        private void btnNewUser_Click(object sender, EventArgs e)
+        {
+            //form1 닫히고 form3로
         }
     }
 }

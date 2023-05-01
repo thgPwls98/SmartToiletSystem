@@ -18,3 +18,9 @@ namespace Smart_Toilet_System
         }
     }
 }
+
+/*used=사용중
+enpty=빈칸
+pbtsFull, pbSafe, pbUserout 이 세가지가 디폴트값!
+사진은 차후에 채울 예정입니다. 
+*/
