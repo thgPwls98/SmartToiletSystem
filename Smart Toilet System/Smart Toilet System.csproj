@@ -101,5 +101,32 @@
   <ItemGroup>
     <None Include="Resources\png-transparent-doraemon-manga-drawing-nobita-nobi-fujiko-fujio-doraemon-doraemon-manga-drawing.png" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\change.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\안전.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\위험.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\full.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\using.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\out.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\UserIn.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\UserOut.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\여자.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
